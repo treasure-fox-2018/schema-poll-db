@@ -1,0 +1,3 @@
+https://i.imgur.com/qPtFjxW.png
+
+Skema ini menjelaskan bahwa box voter dihubungkan dengan box voting chance terlebih dahulu dikarenakan hak voter memilih lebih dari satu calon, lanjut denga voting machinesecara  /one to one/ dikarnakan input dari voter yang memiliki lebih dari satu kesempatan harus terinput di voting machine yg lanjut dilaporkan ke database.
